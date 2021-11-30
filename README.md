@@ -13,3 +13,7 @@ para arch linux. Cuenta con un gestor de ventanas(qtile), editor de texto(neovim
 +Rofi
 +Thunar
 +Ranger
+
+~~~
+Bloque de texto de prueba
+~~~
